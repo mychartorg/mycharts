@@ -2,11 +2,20 @@ apiVersion: v1
 entries:
   javamicroservicejunghyeon:
   - apiVersion: v1
-    created: 2019-03-18T17:30:51.322228+09:00
+    created: 2019-03-18T17:37:34.688232+09:00
     description: A Helm chart for Kubernetes
     digest: da0730f2f23ccbe2a5f5b71ef3d3a76afeb05ffbf27e7cd313b5b323c7a83f04
     name: javamicroservicejunghyeon
     urls:
     - javamicroservicejunghyeon-1.0.0.tgz
     version: 1.0.0
-generated: 2019-03-18T17:30:51.318814+09:00
+  javamicroservicejunghyeon-cli:
+  - apiVersion: v1
+    created: 2019-03-18T17:37:34.688983+09:00
+    description: A Helm chart for Kubernetes
+    digest: 26864cd211005e37ada7a80d4b11207822e94adc020bc96bb6ba0a9eddba94ff
+    name: javamicroservicejunghyeon-cli
+    urls:
+    - javamicroservicejunghyeon-cli-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-03-18T17:37:34.685357+09:00
